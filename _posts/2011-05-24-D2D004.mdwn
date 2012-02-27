@@ -7,7 +7,7 @@ summary: Take 2, after our previously planned recording was aborted on the launc
 filename: DtoD.004.m4a
 ---
 
-Get episode #004 [here](http://feeds.feedburner.com/drivensoftware/distraction)
+Get episode #004 [here](http://feeds2.feedburner.com/driven2distraction)
 
 
 Unfortunately no Rob Mclean as promised, we'll try and get him on the show as soon as possible...
@@ -31,4 +31,4 @@ Unfortunately no Rob Mclean as promised, we'll try and get him on the show as so
 ###NOTES
 <br>
 
-If you enjoy the show, please tell a friend - and send us your feedback - distraction@drivensoftware.net
+If you enjoy the show, please tell a friend - and send us your feedback - distraction@drivensoftware.com

@@ -7,7 +7,7 @@ summary: We're back and we have more useful links and event news
 filename: DtoD.002.m4a
 ---
 
-Get episode #002 [here](http://feeds.feedburner.com/drivensoftware/distraction)
+Get episode #002 [here](http://feeds2.feedburner.com/driven2distraction)
 <br/>
 ### FYIs
 * [Rails 3.1 coffeescript](http://mzan.si/6Jcl)

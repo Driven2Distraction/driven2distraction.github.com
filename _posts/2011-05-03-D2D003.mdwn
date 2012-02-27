@@ -7,7 +7,7 @@ summary: All about us. In this episode we introduce ourselves as well as talk a 
 filename: DtoD.003.m4a
 ---
 
-Get episode #003 [here](http://feeds.feedburner.com/drivensoftware/distraction)
+Get episode #003 [here](http://feeds2.feedburner.com/driven2distraction)
 <br/>
 
 ### Your D2D hosts:
@@ -39,4 +39,4 @@ Kevin Trethewey & Garren Smith
 <br>
 We'd like to build catalogue of SA developer blogs / content.
 
-Please forward links to distraction@drivensoftware.net.
+Please forward links to distraction@drivensoftware.com
