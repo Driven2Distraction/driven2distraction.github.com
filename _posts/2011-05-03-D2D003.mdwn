@@ -7,13 +7,10 @@ summary: All about us. In this episode we introduce ourselves as well as talk a 
 filename: DtoD.003.m4a
 ---
 
-Get episode #003 [here](http://feeds2.feedburner.com/driven2distraction)
-<br/>
-
 ### Your D2D hosts:
 <br>
-<img src="/images/people/kevint.jpg">
-<img src="/images/people/garrens.jpg">
+<img src="http://driven2distraction.co.za/images/people/kevint.jpg">
+<img src="http://driven2distraction.co.za/images/people/garrens.jpg">
 <br>
 Kevin Trethewey & Garren Smith
 <br>

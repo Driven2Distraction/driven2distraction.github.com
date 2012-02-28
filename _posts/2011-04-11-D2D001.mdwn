@@ -7,8 +7,6 @@ summary: Our first attempt, we'll improve and grow it from here...
 filename: DtoD.001.m4a
 ---
 
-Get episode #001 [here](http://feeds2.feedburner.com/driven2distraction)
-
 ### FYIs
 
 * [How is it even possible for code to be this bad?](http://mzan.si/Wg2n) by Gojko Adzic

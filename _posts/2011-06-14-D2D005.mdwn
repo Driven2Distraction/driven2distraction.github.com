@@ -7,9 +7,6 @@ summary: The first in a series discussing eXtreme Programming
 filename: DtoD.005.m4a
 ---
 
-Get episode #005 [here](http://feeds2.feedburner.com/driven2distraction)
-
-
 ### COMMUNITY
 <br>
 * [Ruby Mini-Conference](http://mzan.si/B4T6)
