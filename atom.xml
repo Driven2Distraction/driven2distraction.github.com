@@ -1,36 +1,28 @@
 ---
 layout: nil
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" >
- <title>Driven2Distraction</title>
- <link href="http://www.driven2distraction.co.za/atom.xml" rel="self"/>
- <link href="http://www.driven2distraction.co.za/"/>
- <description>Find out what is happening in the software development community, locally and internationally.</description>
- <language>en-za</language>
- <copyright>© Copyright 2012 Driven Software. All rights reserved.</copyright>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://www.driven2distraction.co.za/</id>
- <author>
-   <name>Driven2Distraction</name>
-   <email>distraction@drivensoftware.com</email>
- </author>
- <webMaster>distraction@drivensoftware.com</webMaster>
- <ttl>1</ttl>
- <itunes:image href="http://www.driven2distraction.co.za/images/distraction-itunes.jpg" />
-
- {% for post in site.posts %}
-   <entry>
-     <title>{{ post.title }}</title>
-     <description>{{ post.summary }}</description>
-     <link href="http://www.driven2distraction.co.za{{ post.url }}"/>
-	 <link href="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}"/>
-     <updated>{{ post.date | date_to_xmlschema }}</updated>
-     <id>http://www.driven2distraction.co.za{{ post.id }}</id>
-     <content type="html">{{ post.content | xml_escape }} <br/><br/>(<a href="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}">direct download link</a>)</content>
-     <enclosure url="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}" length="" type="audio/m4a"/>
-   </entry>
- {% endfor %}
- 
-</feed>
-
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Driven2Distraction</title>
+		<link>http://driven2distraction.co.za</link>
+		<description>Find out what is happening in the software development community, locally and internationally.</description>
+		<language>en-za</language>
+		<copyright>© Copyright 2011 Driven Software. All rights reserved.</copyright>
+		<lastBuildDate>Tue, 28 Feb 2012 16:00:00 GMT</lastBuildDate>
+		<webMaster>distraction@drivensoftware.com</webMaster>
+		<ttl>1</ttl>
+        <itunes:image href="http://www.driven2distraction.co.za/images/distraction-itunes.jpg" />
+        {% for post in site.posts %}
+            {% if post.category != "Ignore" %}
+            <item>
+                <title>{{ post.title }}</title>
+                <description>{{ post.summary }}</description>
+                <pubDate>{{ post.date }}</pubDate>
+                <link>http://www.driven2distraction.co.za{{ post.url }}</link>
+                <enclosure url="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}" length="" type="audio/m4a"/>
+            </item>
+            {% endif %}
+        {% endfor %}
+	</channel>
+</rss>
