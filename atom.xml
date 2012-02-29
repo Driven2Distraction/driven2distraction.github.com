@@ -27,7 +27,7 @@ layout: nil
 	 <link href="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}"/>
      <updated>{{ post.date | date_to_xmlschema }}</updated>
      <id>http://www.driven2distraction.co.za{{ post.id }}</id>
-     <content type="html">{{ post.content | xml_escape }}</content>
+     <content type="html">{{ post.content | xml_escape }} <br/><br/>(<a href="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}">direct download link</a>)</content>
      <enclosure url="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}" length="" type="audio/m4a"/>
    </entry>
  {% endfor %}
