@@ -24,6 +24,7 @@ layout: nil
      <title>{{ post.title }}</title>
      <description>{{ post.summary }}</description>
      <link href="http://www.driven2distraction.co.za{{ post.url }}"/>
+	 <link href="https://github.com/Driven2Distraction/driven2distraction.github.com/raw/master/episodes/{{ post.filename }}"/>
      <updated>{{ post.date | date_to_xmlschema }}</updated>
      <id>http://www.driven2distraction.co.za{{ post.id }}</id>
      <content type="html">{{ post.content | xml_escape }}</content>

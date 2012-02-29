@@ -1,0 +1,25 @@
+---
+layout: post
+title: Episode 006 - Going Pro
+published: 1 March 2012
+category: Distraction
+summary: We're back on the air with an new co-host and a new commitment to publishing regular shows! 
+filename: D2D.006.m4a
+---
+
+### COMMUNITY
+<br>
+* 02 March - [Scrum For Managers](http://blogs.msdn.com/b/southafrica)
+* 12 March - [Community Night](http://blogs.msdn.com/b/southafrica)
+* 17 March - [ERDDUG](https://twitter.com/#!/erddug)
+* 24 March - [Code Retreat](https://twitter.com/#!/drivensoftware)
+* 05 May - [JsInSa](https://twitter.com/#!/jsinsa)
+* 11 May - [Agile Africa Conference](http://www.agileafricaconf.com/)
+
+
+<br>
+
+###NOTES
+<br>
+
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
