@@ -1,0 +1,14 @@
+---
+layout: post
+title: Episode 007 - Interview with Robert MacLean
+published: 26 March 2012
+category: Distraction
+summary: Mark catches up with Robert MacLean who gives us the rundown of some of the new featrues in the upcomming release of Visual Studio.
+filename: D2D.007.RMCLEAN.m4a
+---
+###NOTES
+Mark catches up with Robert MacLean who gives us the rundown of some of the new featrues in the upcomming release of Visual Studio.
+<Br>
+You can find out what interests Robert on his [blog](http://www.sadev.co.za), or follow [@rmaclean](https://twitter.com/#!/rmaclean) on Twitter
+<br>
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
