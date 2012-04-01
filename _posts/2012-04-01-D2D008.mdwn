@@ -1,0 +1,32 @@
+---
+layout: post
+title: Episode 008 - Plenty happening
+published: 1 April 2012
+category: Distraction
+summary: What's happening around South Africa this month...
+filename: D2D.008.m4a
+---
+
+### COMMUNITY
+<br>
+
+* 04 April - [Scrum User Group Cape Town](http://www.scrum.org.za/events/upcoming-cpt-events/cape-town-event-root-cause-analysis-a3-thinking)
+* 04 April - [RubyOnBeer](http://www.meetup.com/RubyOnBeer/events/55513022/)
+* 10 April - [joburg.js](http://groups.google.com/group/joburg-js)
+* 12 April - [iOS Cape Town](http://www.meetup.com/ios-ct/)
+* Every Thursday - [Coffee & Code, Johannesburg](http://www.meetup.com/Code-Coffee-JHB/)
+* [Mongo User Group, Cape Town](http://www.meetup.com/Cape-Town-MongoDB-User-Group/)
+* [Jozi Java User Group](http://groups.google.com/group/jozijug)
+* [Cape Town Software Process Improvement Network](http://www.spin.org.za/)
+* [Microsoft Hackathon details](http://driven2distraction.co.za/Distraction/2012/03/23/D2D007-RMCLEAN.html)
+* [Whole raft of other Microsoft events](http://blogs.msdn.com/b/southafrica/)
+* [JCSE/Microsoft/Nokia Evening classes](http://jcse.org.za/events)
+* Keen to start a software development related user group in Durbs? Contact us!
+
+
+<br>
+
+###NOTES
+<br>
+
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
