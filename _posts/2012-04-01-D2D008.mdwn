@@ -10,11 +10,16 @@ filename: D2D.008.m4a
 ### COMMUNITY
 <br>
 
+####Upcoming Events...
+
 * 04 April - [Scrum User Group Cape Town](http://www.scrum.org.za/events/upcoming-cpt-events/cape-town-event-root-cause-analysis-a3-thinking)
 * 04 April - [RubyOnBeer](http://www.meetup.com/RubyOnBeer/events/55513022/)
 * 10 April - [joburg.js](http://groups.google.com/group/joburg-js)
 * 12 April - [iOS Cape Town](http://www.meetup.com/ios-ct/)
 * Every Thursday - [Coffee & Code, Johannesburg](http://www.meetup.com/Code-Coffee-JHB/)
+
+####Other User Group information...
+
 * [Mongo User Group, Cape Town](http://www.meetup.com/Cape-Town-MongoDB-User-Group/)
 * [Jozi Java User Group](http://groups.google.com/group/jozijug)
 * [Cape Town Software Process Improvement Network](http://www.spin.org.za/)
