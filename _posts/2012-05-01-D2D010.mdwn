@@ -28,6 +28,7 @@ filename: D2D.010.201205.m4a
 * Tue 08 May - [Launch of SA Chapter of SEMAT: Wits PDH East Campus - FREE](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
 * Tue 08 May 4:30PM - [Developer User Group - Intro to Git Source Control](http://www.eventbrite.com/event/3296093705)
 * Mon 14 May 7:00PM - [Lambda Luminaries - OpenGL in Haskell](http://www.meetup.com/lambda-luminaries/events/55992792/)
+* Mon 21 May 6:00PM - [Software Architecture Forum - Cloud Computing](http://jcse.org.za/events)
 * Every Thursday - [Coffee & Code, Johannesburg](http://www.meetup.com/Code-Coffee-JHB/)
 
 <br>
