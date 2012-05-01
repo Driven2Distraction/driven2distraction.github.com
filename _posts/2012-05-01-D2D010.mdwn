@@ -1,0 +1,36 @@
+---
+layout: post
+title: Episode 010 - May madness
+published: 1 May 2012
+category: Distraction
+summary: What's happening around South Africa this month...
+filename: D2D.010.201205.m4a
+---
+
+### COMMUNITY
+<br>
+
+####Upcoming Events...
+
+Cape Town
+* Thu 03 May @ 7:00PM - [MongoDB User Group - Get Started with MongoDB](http://www.meetup.com/Cape-Town-MongoDB-User-Group/events/61106152/)
+* Thu 03 May @ 6:00PM - [SUGZA - Predictability vs Adaptability, who wins?](http://www.scrum.org.za/events/upcoming-cpt-events/cape-town-may-event-predictability-vs-adaptability-who-wins)
+* Wed 09 May - [Public Lecture: Cape Town, Venue: University of Cape Town. Room: LS2C - R250 p/person](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
+* Thu 10 May - [Master Class: Cape Town, Venue Southern Sun Waterfront. 1 Lower Buitengracht Street, Cape Town - R3,500 p/person](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
+
+
+Johannesburg
+* Wed 02 May 6:30PM - [RubyOnBeer](http://www.meetup.com/RubyOnBeer/events/59038622/)
+* Thu 05 May All Day - [SQLSaturday ]
+* Mon 07 May 6:00PM - [JCSE Distinguished International Visitor Series - 2012 IVAR JACOBSON](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
+* Mon 07 May - [Jozi Linux User Group - IPV6 How To](http://www.meetup.com/Jozi-Linux-User-Group-JLUG/events/57750732/)
+* Tue 08 May 4:30PM - [Developer User Group - Intro to Git Source Control](http://www.eventbrite.com/event/3296093705)
+* Mon 14 May 7:00PM - [Lambda Luminaries - OpenGL in Haskell](http://www.meetup.com/lambda-luminaries/events/55992792/)
+* Every Thursday - [Coffee & Code, Johannesburg](http://www.meetup.com/Code-Coffee-JHB/)
+
+<br>
+
+###NOTES
+<br>
+
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
