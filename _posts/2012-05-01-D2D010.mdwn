@@ -12,14 +12,14 @@ filename: D2D.010.201205.m4a
 
 ####Upcoming Events...
 
-Cape Town
+#####Cape Town
 * Thu 03 May @ 7:00PM - [MongoDB User Group - Get Started with MongoDB](http://www.meetup.com/Cape-Town-MongoDB-User-Group/events/61106152/)
 * Thu 03 May @ 6:00PM - [SUGZA - Predictability vs Adaptability, who wins?](http://www.scrum.org.za/events/upcoming-cpt-events/cape-town-may-event-predictability-vs-adaptability-who-wins)
 * Wed 09 May - [Public Lecture: Cape Town, Venue: University of Cape Town. Room: LS2C - R250 p/person](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
 * Thu 10 May - [Master Class: Cape Town, Venue Southern Sun Waterfront. 1 Lower Buitengracht Street, Cape Town - R3,500 p/person](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
 
 
-Johannesburg
+#####Johannesburg
 * Wed 02 May 6:30PM - [RubyOnBeer](http://www.meetup.com/RubyOnBeer/events/59038622/)
 * Thu 05 May All Day - [SQLSaturday ]
 * Mon 07 May 6:00PM - [JCSE Distinguished International Visitor Series - 2012 IVAR JACOBSON](http://jcse.org.za/events/jcse-distinguished-international-visitor-series-2012-ivar)
