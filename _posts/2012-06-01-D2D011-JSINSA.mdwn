@@ -7,13 +7,10 @@ summary: What's happening around South Africa this month...
 filename: D2D.011.JSINSA.m4a
 ---
 
-### COMMUNITY
-<br>
-
-####Upcoming Events...
+####Community...
 
 #####Cape Town
-* Agh Shame, doesn't seem to be anything going on, if there is0 [email us so we can list it](mailto:distraction@drivensoftware.com)
+* Doesn't seem to be anything going on, if there is [email us so we can list it](mailto:distraction@drivensoftware.com)
 
 
 #####Johannesburg
@@ -23,7 +20,7 @@ filename: D2D.011.JSINSA.m4a
 * Mon, 11 Jun - 19:00  [Lambda Luminaries - Why Functional Matters](http://www.meetup.com/lambda-luminaries/events/55993052/)
 * Tue, 12 Jun - 16:30 to 17:30  [DeveloperUG - MongoDB](http://www.meetup.com/DeveloperUG/events/65019272/)
 * Tue, 12 Jun - 18:30 to 20:00  [SQL User Group](http://www.sqlusergroupdemo.co.za/Home/tabid/41/ModuleID/390/ItemID/12/mctl/EventDetails/Default.aspx)
-* Tue, 27 Jun - 18:00 to 20:00  [JCSE Agile Forum - What I want from a Web UI Framework](http://jcse.org.za/events/jcse-agile-forum-what-i-want-from-a-web-ui-framework)
+* Tue, 27 Jun - 18:00 to 20:00  [JCSE Forum - What I want from a Web UI...](http://jcse.org.za/events/jcse-agile-forum-what-i-want-from-a-web-ui-framework)
 * Every Thursday - [Coffee & Code](http://www.meetup.com/Code-Coffee-JHB/)
 
 ####Conferences / Events...
@@ -34,6 +31,4 @@ filename: D2D.011.JSINSA.m4a
 <br>
 
 ###NOTES
-<br>
-
 If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
