@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 011 - June Stuffs & JSinSA Interviews
+title: Episode 011 - June Stuffs + JSinSA Interviews
 published: 1 June 2012
 category: Distraction
 summary: What's happening around South Africa this month...
