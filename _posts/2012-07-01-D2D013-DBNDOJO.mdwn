@@ -1,0 +1,37 @@
+---
+layout: post
+title: Episode 013 - Whats on in July + Dbn Code Dojo
+published: 1 July 2012
+category: Distraction
+summary: What's happening around South Africa this month...
+filename: D2D.013.DBNDOJO.m4a
+---
+
+####Community...
+
+#####Cape Town
+* Thu, 26 Jun - 19:00 [Cpt MongoDB UG](http://www.meetup.com/Cape-Town-MongoDB-User-Group/events/69294322/)
+
+#####Johannesburg
+* Mon, 02 Jul - 18:30 to 20:30 [JCSE Video Evening](http://jcse.org.za/events/jcse-video-evening-2-july)
+* Wed, 04 Jul - 18:30 to 20:30 [Ruby on Beer](http://www.meetup.com/RubyOnBeer/events/67295232/)
+* Mon, 09 Jul - 19:00 [Lambda Luminaries - Datomic: A New Kind of Database](http://www.meetup.com/lambda-luminaries/events/60005672/)
+* Tue, 10 Jul - 16:00 to 17:30 [Information Worker - The SharePoint Apprentice](http://www.informationworker.co.za/pages/jhbeventregistration.aspx)
+* Tue, 10 Jul - 16:30 to 17:30 [DeveloperUG - Bootstrap & My JavaScript Toolkit](http://www.meetup.com/DeveloperUG/events/65031122/)
+* Tue, 10 Jul - 18:30 to 20:30 [JHB Sql Server UG](http://www.sqlusergroupdemo.co.za/Home/tabid/41/ModuleID/390/ItemID/13/mctl/EventDetails/Default.aspx)
+* Mon, 16 Jul - 18:30 to 20:30 [JCSE Architecture Forum - Software Architecture, What is it...](http://jcse.org.za/events/software-architecture-what-is-it-and-how-can-one-design-and)
+* Mon, 23 Jul - 17:30 [Jozi Linux UG - Discuss Shell Scripting](http://www.meetup.com/Jozi-Linux-User-Group-JLUG/events/71117732/)
+* Tue, 27 Jun - 18:00 to 20:00  [JCSE Forum - What I want from a Web UI...](http://jcse.org.za/events/jcse-agile-forum-what-i-want-from-a-web-ui-framework)
+* Every Thursday - [Coffee & Code](http://www.meetup.com/Code-Coffee-JHB/)
+
+####Conferences / Events...
+* 21 Jul 2012 - [Winter CodeRetreat, Johannesburg](http://jhbwintercoderetreat.eventbrite.com/)
+* 31 Jul - 1 Aug 2012 - [Code Lab 2012, Cape Town](http://www.scrum.org.za/code-lab-2012)
+* 2-4 Oct 2012 - [Whole Team Test Approach by Janet Gregory, Johannesburg](http://growingagile.co.za/training-wtt/)
+* 16-18 Oct 2012 - [Whole Team Test Approach by Janet Gregory, Cape Town](http://growingagile.co.za/training-wtt/)
+* 4Q 2012 - [Agile Africa, Johannesburg](http://www.agileafricaconf.com/)
+
+<br>
+
+###NOTES
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
