@@ -19,7 +19,7 @@ filename: D2D.013.DBNDOJO.m4a
 * Tue, 10 Jul - 16:00 to 17:30 [Information Worker - The SharePoint Apprentice](http://www.informationworker.co.za/pages/jhbeventregistration.aspx)
 * Tue, 10 Jul - 16:30 to 17:30 [DeveloperUG - Bootstrap & My JavaScript Toolkit](http://www.meetup.com/DeveloperUG/events/65031122/)
 * Tue, 10 Jul - 18:30 to 20:30 [JHB Sql Server UG](http://www.sqlusergroupdemo.co.za/Home/tabid/41/ModuleID/390/ItemID/13/mctl/EventDetails/Default.aspx)
-* Mon, 16 Jul - 18:30 to 20:30 [JCSE Architecture Forum - Software Architecture, What is it...](http://jcse.org.za/events/software-architecture-what-is-it-and-how-can-one-design-and)
+* Mon, 16 Jul - 18:30 to 20:30 [JCSE Arch Forum - Software Architecture, What is it...](http://jcse.org.za/events/software-architecture-what-is-it-and-how-can-one-design-and)
 * Mon, 23 Jul - 17:30 [Jozi Linux UG - Discuss Shell Scripting](http://www.meetup.com/Jozi-Linux-User-Group-JLUG/events/71117732/)
 * Tue, 27 Jun - 18:00 to 20:00  [JCSE Forum - What I want from a Web UI...](http://jcse.org.za/events/jcse-agile-forum-what-i-want-from-a-web-ui-framework)
 * Every Thursday - [Coffee & Code](http://www.meetup.com/Code-Coffee-JHB/)
