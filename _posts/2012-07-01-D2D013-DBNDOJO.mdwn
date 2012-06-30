@@ -27,9 +27,9 @@ filename: D2D.013.DBNDOJO.m4a
 * 14 Jul 2012 - [Coded in Braam - Learn Ruby on Rails](http://www.meetup.com/CodedInBraam/events/70777922/)
 * 21 Jul 2012 - [Winter CodeRetreat, Johannesburg](http://jhbwintercoderetreat.eventbrite.com/)
 * 31 Jul - 1 Aug 2012 - [Code Lab 2012, Cape Town](http://sugsa.org.za/ai1ec_event/code-lab-2012/?instance_id=9)
-* 24-25 Aug 2012 - [Agile Africa, Johannesburg](http://www.agileafricaconf.com/)
-* 2-4 Oct 2012 - [Whole Team Test Approach by Janet Gregory, Johannesburg](http://growingagile.co.za/training-wtt/)
-* 16-18 Oct 2012 - [Whole Team Test Approach by Janet Gregory, Cape Town](http://growingagile.co.za/training-wtt/)
+* 24 - 25 Aug 2012 - [Agile Africa, Johannesburg](http://www.agileafricaconf.com/)
+* 2 - 4 Oct 2012 - [Whole Team Test Approach by Janet Gregory, Johannesburg](http://growingagile.co.za/training-wtt/)
+* 16 - 18 Oct 2012 - [Whole Team Test Approach by Janet Gregory, Cape Town](http://growingagile.co.za/training-wtt/)
 
 <br>
 
