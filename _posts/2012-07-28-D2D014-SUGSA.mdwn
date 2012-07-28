@@ -9,7 +9,7 @@ filename: D2D.014.SUGSA.m4a
 
 ###NOTES
 
-Mark chats with Austin Fagan about the Scrum User Group of South Africa, what to expect with the upcoming Code Lab 2012 in Cape Town and what else to expect with the user group in the coming months.
+Mark chats with Austin Fagan about the Scrum User Group of South Africa, what to expect with the upcoming Code Lab 2012 in Cape Town and what else is going on with SUGSA in the coming months.
 
 ###LINKS
 
