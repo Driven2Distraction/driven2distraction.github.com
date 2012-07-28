@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 014 - Interview with Austin Fagan about SUGSA
+title: Episode 014 - Austin Fagan & SUGSA
 published: 28 July 2012
 category: Distraction
 summary: Mark chats with Austin Fagan about the Scrum User Group of South Africa...
@@ -9,11 +9,11 @@ filename: D2D.014.SUGSA.m4a
 
 ###NOTES
 
-Mark chats with Austin Fagan about the Scrum User Group of South Africa, the upcomming Code Lab 2012 in Cape Town as well as what else is in the pipeline in the coming months.
+Mark chats with Austin Fagan about the Scrum User Group of South Africa, what to expect with the upcomming Code Lab 2012 in Cape Town and what else to expect with the user group in the coming months.
 
-###Links:
+###LINKS
 
-* [Scrum User Group of South Africa official Website](http://sugsa.org.za)
+* [Scrum User Group of South Africa official website](http://sugsa.org.za)
 
 <br>
 ###NOTES
