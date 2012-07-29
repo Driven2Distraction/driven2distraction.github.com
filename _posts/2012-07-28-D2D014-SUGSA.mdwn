@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 014 - Austin Fagan & SUGSA
+title: Episode 014 - Austin Fagan and SUGSA
 published: 28 July 2012
 category: Distraction
 summary: Mark chats with Austin Fagan about the Scrum User Group of South Africa...
