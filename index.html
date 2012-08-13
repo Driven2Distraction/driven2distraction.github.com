@@ -4,28 +4,6 @@ javascript:
   - /javascripts/json_search.0.9.0.js
   - /javascripts/home.js
 ---
-<div id="search_results_area">
-  <h2>Stay in the Know</h2>
-  
-
-<!-- Begin MailChimp Signup Form -->
-<link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="http://drivensoftware.us2.list-manage2.com/subscribe/post?u=085fc5aa950f992787cc85378&amp;id=f742a5bbff" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	<label for="mce-EMAIL">Get a monthly email on what's happening in the developer community in South Africa</label>
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-</div>
-
 
 <div id="search_results_area">
   <h2>Podcast Show Notes Search <span id="result_count"></span></h2>
@@ -34,8 +12,27 @@ javascript:
 </div>
 
 <div id="home">
+  <h2>What's happening in SA this month</h2>
+	<!-- Begin MailChimp Signup Form -->
+	<div id="mc_embed_signup">
+		<form action="http://drivensoftware.us2.list-manage.com/subscribe/post?u=085fc5aa950f992787cc85378&amp;id=f742a5bbff" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<h2>Get a monthly email on what's happening in the developer community in South Africa</h2>
+		<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+		</label>
+			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+		</form>
+	</div>
 
-  <h2>Podcast Show Notes</h2>
+<!--End mc_embed_signup-->
+
+  <h2>Podcast Show Notes</h2>V
 
   <ul class="posts">
     {% for post in site.posts %}
