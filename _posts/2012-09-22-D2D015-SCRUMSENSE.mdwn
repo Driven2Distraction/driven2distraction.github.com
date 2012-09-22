@@ -1,0 +1,21 @@
+---
+layout: post
+title: Episode 015 - Peter Hundermark
+published: 22 September 2012
+category: Distraction
+summary: Mark chats with Peter Hundermark about Agile and Scrum
+filename: D2D.015.SCRUMSENSE.m4a
+---
+
+###NOTES
+
+Mark chats with Peter Hundermark about the how to improve Software Development in South Africa, changing from a command and control environment and the benefits of Scrum.
+
+###LINKS
+
+* [Scrum Sense](http://www.scrumsense.com/)
+* [Follow Peter on Twitter](https://twitter.com/peterhundermark)
+
+<br>
+###NOTES
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
