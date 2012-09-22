@@ -4,7 +4,7 @@ title: Episode 002  - Its definitely worth a try
 published: 19 April 2011
 category: Distraction
 summary: We're back and we have more useful links and event news
-filename: DtoD.002.m4a
+filename: D2D.002.m4a
 ---
 
 ### FYIs

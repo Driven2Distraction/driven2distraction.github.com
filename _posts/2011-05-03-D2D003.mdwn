@@ -4,7 +4,7 @@ title: Episode 003 - All about us
 published: 3 May 2011
 category: Distraction
 summary: All about us. In this episode we introduce ourselves as well as talk a bit about Jekyll.
-filename: DtoD.003.m4a
+filename: D2D.003.m4a
 ---
 
 ### Your D2D hosts:
