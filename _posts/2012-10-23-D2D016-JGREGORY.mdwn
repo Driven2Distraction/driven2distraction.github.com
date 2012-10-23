@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Episode 016 - Janet Gregory & Agile Testing
+title: Episode 016 - Janet Gregory and Agile Testing
 published: 23 October 2012
 category: Distraction
-summary: Mark & Kevin chat with Janet Gregory and Karen Greaves about Agile Testing
-filename: D2D.016.JGREGORY.m4a
+summary: Mark and Kevin chat with Janet Gregory and Karen Greaves about Agile Testing
+filename: D2D.016.JGREGORY.m4a 
 ---
 
 ###NOTES
 
-Mark & Kevin chat with Janet Gregory and Karen Greaves about Agile Testing, what to look for in a tester and how they fit in an agile team, bug tracking software and a whole lot more.
+Mark and Kevin chat with Janet Gregory and Karen Greaves about Agile Testing, what to look for in a tester, how they fit in an agile team, bug tracking software and a whole lot more.
 
 ###LINKS
 
