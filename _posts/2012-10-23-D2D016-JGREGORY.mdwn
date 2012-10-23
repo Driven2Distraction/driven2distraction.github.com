@@ -1,0 +1,24 @@
+---
+layout: post
+title: Episode 016 - Janet Gregory & Agile Testing
+published: 23 October 2012
+category: Distraction
+summary: Mark & Kevin chat with Janet Gregory and Karen Greeves about Agile Testing
+filename: D2D.016.JGREGORY.m4a
+---
+
+###NOTES
+
+Mark & Kevin chat with Janet Gregory and Karen Greeves about Agile Testing, what to look for in a tester and how they fit in an agile team, bug tracking software and a whole lot more.
+
+###LINKS
+
+* [Janet's Company - DragonFire Inc](http://www.janetgregory.ca/)
+* [Janet's Book](http://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468/ref=la_B001JSFAG6_1_1?ie=UTF8&qid=1351006848&sr=1-1)
+* [Follow Janet on Twitter](https://twitter.com/janetgregoryca)
+<br>
+* [Karen's Company - Growing Agile](http://growingagile.co.za/)
+* [Follow Karen on Twitter](https://twitter.com/karen_greaves)
+<br>
+###NOTES
+If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
