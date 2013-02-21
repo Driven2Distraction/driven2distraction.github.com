@@ -3,7 +3,7 @@ layout: post
 title: Episode 017 - Dave Russell with what's going on with Microsoft South Africa
 published: 21 February 2013
 category: Distraction
-summary: Mark chats with Dave Russell about what's going on with Microsoft South Africa in the next few months
+summary: Mark chats with Dave about what's going on with Microsoft South Africa
 filename: D2D.017.DRUSSELL.m4a 
 ---
 
