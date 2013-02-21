@@ -13,7 +13,7 @@ Mark chats with Dave Russell about what's going on with Microsoft South Africa i
 
 ###LINKS
 
-* [Microsoft South Africa's blog]http://blogs.msdn.com/b/southafrica/)
+* [Microsoft South Africa's blog](http://blogs.msdn.com/b/southafrica/)
 * [Follow Dave on Twitter](https://twitter.com/DaveMSDevSA)
 <br>
 ###NOTES
