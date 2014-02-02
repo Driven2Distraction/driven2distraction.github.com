@@ -14,6 +14,6 @@ Janco chats with presenters and attendees at Scrum Gathering South Africa.
 ###LINKS
 
 * [SUGSA Blog](http://sugsa.org.za/2013-scrum-gathering/)
-<br>
+  
 ###NOTES
 If you enjoy the show, please tell a friend - and send us your feedback - [Driven2Distraction](http://www.driven2distraction.co.za), or follow [@d2dpodcast](https://twitter.com/#!/d2dpodcast) on Twitter
