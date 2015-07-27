@@ -1,4 +1,4 @@
 markdown: rdiscount
-pygments: true
+highlighter: true
 ftp_host: ftp.drivensoftware.net
 ftp_dir: /
