@@ -20,7 +20,7 @@ layout: nil
                 <description>{{ post.summary }}</description>
                 <pubDate>{{ post.date }}</pubDate>
                 <link>http://www.driven2distraction.co.za{{ post.url }}</link>
-                <enclosure url="https://4980a9134e6f996142fb50afb639d75be23b5131.googledrive.com/host/0BwFuJh2TaMvvNnZzUERlZEVoaGs/{{ post.filename }}" length="" type="audio/m4a"/>
+                <enclosure url="https://drive.google.com/open?id={{ post.filename }}" length="" type="audio/m4a"/>
             </item>
             {% endif %}
         {% endfor %}
