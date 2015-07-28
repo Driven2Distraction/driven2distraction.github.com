@@ -3,16 +3,16 @@ layout: nil
 ---
 <?xml version="1.0"?>
 <rss version="2.0">
-	<channel>
-		<title>Driven2Distraction</title>
-		<link>http://driven2distraction.co.za</link>
-		<description>Find out what is happening in the software development community, locally and internationally.</description>
-		<language>en-za</language>
-		<copyright>© Copyright 2011 Driven Software. All rights reserved.</copyright>
-		<lastBuildDate>Tue, 28 Feb 2012 16:00:00 GMT</lastBuildDate>
-		<webMaster>distraction@drivensoftware.com</webMaster>
-		<ttl>1</ttl>
-        <itunes:image href="http://www.driven2distraction.co.za/images/distraction-itunes.jpg" />
+    <channel>
+        <title>Driven2Distraction</title>
+        <link>http://driven2distraction.co.za</link>
+        <description>Find out what is happening in the software development community, locally and internationally.</description>
+        <language>en-za</language>
+        <copyright>© Copyright 2011 Driven Software. All rights reserved.</copyright>
+        <lastBuildDate>Tue, 28 Feb 2012 16:00:00 GMT</lastBuildDate>
+        <webMaster>distraction@drivensoftware.com</webMaster>
+        <ttl>1</ttl>
+        
         {% for post in site.posts %}
             {% if post.category != "Ignore" %}
             <item>
@@ -24,5 +24,5 @@ layout: nil
             </item>
             {% endif %}
         {% endfor %}
-	</channel>
+    </channel>
 </rss>
