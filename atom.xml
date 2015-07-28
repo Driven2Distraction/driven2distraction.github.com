@@ -2,15 +2,19 @@
 layout: nil
 ---
 <?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <rss version="2.0">
     <channel>
-        <title>Driven2Distraction</title>
+        <title>Driven 2 Distraction</title>
+        <itunes:author>drivenSpark</itunes:author>
+        <itunes:description>Find out what is happening in the software development community, locally and internationally.</itunes:description>
+        <itunes:image href="http://www.driven2distraction.co.za/images/distraction-itunes.jpg" />
         <link>http://driven2distraction.co.za</link>
         <description>Find out what is happening in the software development community, locally and internationally.</description>
         <language>en-za</language>
-        <copyright>© Copyright 2011 Driven Software. All rights reserved.</copyright>
-        <lastBuildDate>Tue, 28 Feb 2012 16:00:00 GMT</lastBuildDate>
-        <webMaster>distraction@drivensoftware.com</webMaster>
+        <copyright>© Copyright 2015 Driven Alliance. All rights reserved.</copyright>
+        <lastBuildDate>Tue, 28 Jul 2015 16:00:00 GMT</lastBuildDate>
+        <webMaster>distraction@drivenalliance.com</webMaster>
         <ttl>1</ttl>
         
         {% for post in site.posts %}
@@ -18,7 +22,9 @@ layout: nil
             <item>
                 <title>{{ post.title }}</title>
                 <description>{{ post.summary }}</description>
+                <itunes:image href="http://www.driven2distraction.co.za/images/distraction-itunes.jpg" />
                 <pubDate>{{ post.date }}</pubDate>
+                <language>English</language>
                 <link>http://www.driven2distraction.co.za{{ post.url }}</link>
                 <enclosure url="https://dl.dropboxusercontent.com/u/62921/Driven2Distraction/{{ post.filename }}" length="" type="audio/m4a"/>
             </item>
